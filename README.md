@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgyPanther
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, ABAP & Appgyver
+- 🌱 I’m currently learning Python, ABAP 
 - 💞️ I’m looking to collaborate on Codes
 -
 
